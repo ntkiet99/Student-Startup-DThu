@@ -1,0 +1,11 @@
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\bin\Debug\SSDThu.Data.dll
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\bin\Debug\SSDThu.Data.pdb
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\bin\Debug\SSDThu.Common.dll
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\bin\Debug\SSDThu.Model.dll
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\bin\Debug\SSDThu.Common.pdb
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\bin\Debug\SSDThu.Model.pdb
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\obj\Debug\SSDThu.Data.csprojAssemblyReference.cache
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\obj\Debug\SSDThu.Data.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\obj\Debug\SSDThu.Data.csproj.CopyComplete
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\obj\Debug\SSDThu.Data.dll
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Data\obj\Debug\SSDThu.Data.pdb

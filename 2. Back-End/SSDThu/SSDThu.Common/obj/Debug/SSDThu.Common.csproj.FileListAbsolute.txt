@@ -1,0 +1,6 @@
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Common\bin\Debug\SSDThu.Common.dll
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Common\bin\Debug\SSDThu.Common.pdb
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Common\obj\Debug\SSDThu.Common.csprojAssemblyReference.cache
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Common\obj\Debug\SSDThu.Common.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Common\obj\Debug\SSDThu.Common.dll
+D:\Projects\ASP.NET MVC\Student-Startup-DThu\2. Back-End\SSDThu\SSDThu.Common\obj\Debug\SSDThu.Common.pdb
